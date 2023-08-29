@@ -1,7 +1,0 @@
-{{#user}}
-
-Name: Kumar Saksham
-Skills: C++, DSA, Flutter, Mysql, Github
-Email: saksham12a@gmail.com
-
-{{/user}}
